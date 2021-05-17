@@ -42,7 +42,7 @@
       </td>
       <td width="25%" align="center">
         <span><strong>Mongo DB</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
       </td>
     </tr>
     <tr valign="top">
