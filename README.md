@@ -47,8 +47,8 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Postgre SQL</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg">
+        <span><strong>Power BI</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Linux</strong></span><br><br><br>
