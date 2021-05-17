@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-horizontal.svg">
+        <img height="64px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg">
       </td>
     </tr>
       
