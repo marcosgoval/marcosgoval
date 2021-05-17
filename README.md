@@ -40,8 +40,25 @@
         <span><strong>MySQL</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
       </td>
+      <td width="25%" align="center">
+        <span><strong>SQL Server</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+      </td>
     </tr>
-      
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Postgre SQL</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>MySQL</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>SQL Server</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+      </td>
+    </tr>
 
   </tbody>
 </table>
