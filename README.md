@@ -23,12 +23,12 @@
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -61,16 +61,16 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Hadoop</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg">
-      </td>
-      <td width="25%" align="center">
         <span><strong>Linux</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Docker</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Hadoop</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg">
       </td>
     </tr>
 
