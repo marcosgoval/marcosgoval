@@ -41,8 +41,8 @@
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>SQL Server</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+        <span><strong>Mongo DB</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
       </td>
     </tr>
     <tr valign="top">
