@@ -33,16 +33,17 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span><strong>MySql</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
     </tr>
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
       </td>
+
       <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
+        <span><strong>PostgreSQL</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
     </tr>
