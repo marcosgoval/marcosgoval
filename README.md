@@ -34,11 +34,11 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Postgre SQL</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg">
+        <img height="64px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>MySQL</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Mongo DB</strong></span><br><br><br>
