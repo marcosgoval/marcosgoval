@@ -61,8 +61,8 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Power BI</strong></span><br><br><br>
-        <img height="64px" src="./microsoft-sql-server-seeklogo.com.svg">
+        <span><strong>Hadoop</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Linux</strong></span><br><br><br>
