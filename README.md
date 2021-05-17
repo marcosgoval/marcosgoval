@@ -34,8 +34,12 @@ Here are some ideas to get you started:
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
+        <span><strong>Postgre SQL</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>MySQL</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
       </td>
     </tr>
       
