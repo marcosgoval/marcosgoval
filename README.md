@@ -62,7 +62,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Power BI</strong></span><br><br><br>
-        <img height="64px" src="microsoft-sql-server-seeklogo.com.svg">
+        <img height="64px" src="./microsoft-sql-server-seeklogo.com.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Linux</strong></span><br><br><br>
