@@ -59,6 +59,20 @@
         <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
       </td>
     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Power BI</strong></span><br><br><br>
+        <img height="64px" src="microsoft-sql-server-seeklogo.com.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Linux</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Docker</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+      </td>
+    </tr>
 
   </tbody>
 </table>
