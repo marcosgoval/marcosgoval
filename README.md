@@ -70,7 +70,7 @@
       </td>
       <td width="25%" align="center">
         <span><strong>Docker</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+        <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
       </td>
     </tr>
 
