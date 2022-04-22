@@ -8,8 +8,8 @@
 
 #Marcos Garcia Meirelles
 
-- 🔭 I’m currently working on Data Analisty
-- 🌱 I’m currently learning Data Sciency
+- 🔭 I’m currently working on Data Tech Lead
+- 🌱 I’m currently learning Data engineer  / Data Sciency 
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -65,6 +65,21 @@
         <img height="64px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
       </td>
       <td width="25%" align="center">
+        <span><strong>Docker</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+      </td>
+      
+            <td width="25%" align="center">
+        <span><strong>Docker</strong></span><br><br><br>
+        <img height="64px" src="https:https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_spark/apache_spark-ar21.svg">
+      </td>
+      
+            <td width="25%" align="center">
+        <span><strong>Docker</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+      </td>
+      
+            <td width="25%" align="center">
         <span><strong>Docker</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
       </td>
