@@ -30,12 +30,12 @@
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
+      <td width="25%" align="center">
+        <span><strong>Jupyter</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
+      </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Postgre SQL</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
-      </td>
       <td width="25%" align="center">
         <span><strong>MySQL</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
@@ -44,13 +44,17 @@
         <span><strong>Mongo DB</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Power BI</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg">
+        <img height="64px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
       </td>
       <td width="25%" align="center">
+        <span><strong>SQL Server</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+            <td width="25%" align="center">
         <span><strong>Linux</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
       </td>
@@ -58,39 +62,64 @@
         <span><strong>Docker</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
       </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Linux</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Docker</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
-      </td>
-      
-      <td width="25%" align="center">
-        <span><strong>Docker</strong></span><br><br><br>
-        <img height="64px" src="https:https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_spark/apache_spark-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Docker</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Docker</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
-      </td>
-    </tr>
-    <tr valign="top">
+            <td width="25%" align="center">
+        <span><strong>AWS</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
       </td>
             <td width="25%" align="center">
-        <span><strong>Hadoop</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg">
+        <span><strong>SQLite</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
+      </td>
+    </tr>
+     <td width="25%" align="center">
+        <span><strong>Elastic</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg">
+      </td>
+         <td width="25%" align="center">
+        <span><strong>Spark</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
+      </td>
+         <td width="25%" align="center">
+        <span><strong>Kafka</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Docker</strong></span><br><br><br>
-        <img height="64px" src="https:https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_spark/apache_spark-ar21.svg">
+        <span><strong>Hadoop</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg">
+      </td>
+    </tr>
+    </tr>
+     <td width="25%" align="center">
+        <span><strong>Power bi</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg">
+            <td width="25%" align="center">
+        <span><strong>Metabase</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/metabase/metabase-ar21.svg">
+      </td>
+         <td width="25%" align="center">
+        <span><strong>Scala</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Hive</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg">
+      </td>
+    </tr>
+    </tr>
+     <td width="25%" align="center">
+        <span><strong>Shell - Bash</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
+            <td width="25%" align="center">
+        <span><strong>Pentaho</strong></span><br><br><br>
+        <img height="64px" src="">
+      </td>
+         <td width="25%" align="center">
+        <span><strong>Vim</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Flask</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
       </td>
     </tr>
    </tbody>
