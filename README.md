@@ -110,8 +110,8 @@
         <span><strong>Shell - Bash</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
             <td width="25%" align="center">
-        <span><strong>Pentaho</strong></span><br><br><br>
-        <img height="64px" src="">
+        <span><strong>Apache Hop - Pentaho PDI</strong></span><br><br><br>
+        <img height="64px" src="https://hop.apache.org/tech-manual/latest/_images/logo/CMYK/jpg/HOP_logo_CMYK-6.jpg">
       </td>
          <td width="25%" align="center">
         <span><strong>Vim</strong></span><br><br><br>
